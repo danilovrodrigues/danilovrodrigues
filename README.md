@@ -22,6 +22,10 @@ Hi there 👋 I'm Danilo Rodrigues.
 ![AWS](https://img.shields.io/badge/AWS-black?&logo=Amazon-AWS&logoColor=F90)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&color=black)&nbsp;
 
+## Reach Out
+<a href="https://www.linkedin.com/in/danilovrodrigues" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>&nbsp;
+<a href="https://github.com/danilovrodrigues" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@danilovrodrigues-black?style=flat-square&logo=GitHub&logoColor=white"></a>
+
 <!---
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=danilovrodrigues.danilovrodrigues)
 -->
