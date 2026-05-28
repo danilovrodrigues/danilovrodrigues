@@ -5,16 +5,15 @@ Hi there 👋 I'm Danilo Rodrigues.
 💡 &nbsp; I'm a backend software engineer.\
 💻 &nbsp; I'm a huge technology lover!
 
-## Software Development
-
+## Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk&logoColor=fff&color=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-000?style=flat-square&logo=spring&color=0D1117)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=flat-square&logo=springboot&color=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-336791?style=flat-square&logo=mongodb&color=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&color=0D1117)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis&color=0D1117)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&color=0D1117)
 
-## Technologies & Tools
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains&color=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&color=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=0D1117)&nbsp;
