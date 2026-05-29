@@ -16,7 +16,7 @@ public class DaniloRodrigues {
 }
 ```
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💻 Backend Software Engineer with **10+ years of experience**
 - ☕ Specialized in **Java, Spring Boot, REST APIs and Microservices**
@@ -24,7 +24,7 @@ public class DaniloRodrigues {
 
 ---
 
-## ⚙️ Engineering Stack
+# ⚙️ Engineering Stack
 
 ### Languages
 
@@ -33,45 +33,30 @@ public class DaniloRodrigues {
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square)
 
+### Core Technologies
 
-### Technologies
-
-![Spring](https://img.shields.io/badge/Spring-0D1117?style=flat-square&logo=spring&logoColor=6DB33F)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Hibernate](https://img.shields.io/badge/Hibernate-0D1117?style=flat-square&logo=hibernate&logoColor=59666C)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-0D1117?style=flat-square&logo=swagger&logoColor=85EA2D)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&color=0D1117)
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka&color=0D1117)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&color=0D1117)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonwebservices&logoColor=F90&color=0D1117)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&color=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonwebservices&logoColor=F90&color=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&color=0D1117)&nbsp;
-![Datadog](https://img.shields.io/badge/Datadog-0D1117?style=flat-square&logo=datadog&logoColor=632CA6)
-
-
-### Tools & OS
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=flat-square&logo=intellijidea)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=flat-square&logo=pycharm)&nbsp;
-![Terminal](https://img.shields.io/badge/-Terminal-0D1117?style=flat-square&logo=gnometerminal)&nbsp;
-![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=flat-square&logo=dbeaver)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-0D1117?style=flat-square&logo=postman)&nbsp;
-![Zorin](https://img.shields.io/badge/-Zorin%20OS-000?style=flat-square&logo=zorin&color=0D1117)&nbsp;
+### Tools & Environment
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=flat-square&logo=intellijidea)
+![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=flat-square&logo=pycharm)
+![Terminal](https://img.shields.io/badge/-Terminal-0D1117?style=flat-square&logo=gnometerminal)
+![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=flat-square&logo=dbeaver)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&color=0D1117)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=0D1117)
+![Zorin](https://img.shields.io/badge/-Zorin%20OS-000?style=flat-square&logo=zorin&color=0D1117)
 
 ---
 
-### 🤝 Let's Connect
-
-- 💼 LinkedIn: [in/danilovrodrigues](https://www.linkedin.com/in/danilovrodrigues/)
-
-## 
 <div align="center">
-    
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=danilovrodrigues&theme=github-dark&hide_border=true)
 
 </div>
