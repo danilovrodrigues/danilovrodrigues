@@ -1,15 +1,22 @@
 # Hi there 👋 I'm Danilo Rodrigues
 
 ```java
-BackendEngineer danilo = new BackendEngineer(
-    "Java",
-    "Spring Boot",
-    "Microservices",
-    "Cloud"
-);
+public class DaniloRodrigues {
+
+    private final String role = "Principal Software Engineer";
+    private final String specialty = "Backend Engineering";
+
+    List<String> stack = List.of(
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "AWS",
+        "Financial Systems"
+    );
+}
 ```
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 💻 Backend Software Engineer with **10+ years of experience**
 - ☕ Specialized in **Java, Spring Boot, REST APIs and Microservices**
@@ -27,7 +34,7 @@ BackendEngineer danilo = new BackendEngineer(
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square)
 
 
-## Technologies & Tools
+### Technologies
 
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=flat-square&logo=spring&logoColor=6DB33F)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=6DB33F)
@@ -41,13 +48,33 @@ BackendEngineer danilo = new BackendEngineer(
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&color=0D1117)
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka&color=0D1117)
 
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains&color=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&color=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonwebservices&logoColor=F90&color=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&color=0D1117)&nbsp;
 ![Datadog](https://img.shields.io/badge/Datadog-0D1117?style=flat-square&logo=datadog&logoColor=632CA6)
-![Linux](https://img.shields.io/badge/-Zorin%20OS-000?style=flat-square&logo=zorin&color=0D1117)&nbsp;
+
+
+### Tools & OS
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=flat-square&logo=intellijidea)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=flat-square&logo=pycharm)&nbsp;
+![Terminal](https://img.shields.io/badge/-Terminal-0D1117?style=flat-square&logo=gnometerminal)&nbsp;
+![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=flat-square&logo=dbeaver)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=flat-square&logo=postman)&nbsp;
+![Zorin](https://img.shields.io/badge/-Zorin%20OS-000?style=flat-square&logo=zorin&color=0D1117)&nbsp;
+
+---
+
+### 🤝 Let's Connect
+
+- 💼 LinkedIn: [in/danilovrodrigues](https://www.linkedin.com/in/danilovrodrigues/)
+
+## 
+<div align="center">
+    
+![GitHub Streak](https://streak-stats.demolab.com?user=danilovrodrigues&theme=github-dark&hide_border=true)
+
+</div>
 
 <!---
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=danilovrodrigues.danilovrodrigues)
