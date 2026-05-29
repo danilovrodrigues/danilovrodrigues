@@ -3,8 +3,8 @@
 ```java
 public class DaniloRodrigues {
 
-    private final String role = "Principal Software Engineer";
-    private final String specialty = "Backend Engineering";
+    private final String role = "Backend Software Engineer";
+    private final String specialty = "Java & Distributed Systems";
 
     List<String> stack = List.of(
         "Java",
