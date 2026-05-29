@@ -24,7 +24,7 @@ public class DaniloRodrigues {
 
 ---
 
-# ⚙️ Engineering Stack
+# ⚙️ Tech Stack
 
 ### Languages
 
@@ -33,7 +33,7 @@ public class DaniloRodrigues {
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square)
 
-### Core Technologies
+### Technologies
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
